@@ -1,4 +1,4 @@
-IntellIJ IDEA Plugin Search for Alfred
+IntelliJ IDEA Plugin Search for Alfred
 ======================================
 An Alfred Workflow so you can search for IntlelliJ IDEA IDE plugins from Alfred application. You will need Alfred Version 2 and the Powerpack to use this.
 
